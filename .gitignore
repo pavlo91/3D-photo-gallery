@@ -1,0 +1,13 @@
+*.DS_Store
+.DS_Store
+.vscode
+.idea
+.settings
+.project
+*.tar.gz
+*.orig
+*.iml
+node_modules
+dist
+package-lock.json   
+yarn.loc
