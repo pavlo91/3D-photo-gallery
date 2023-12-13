@@ -3,9 +3,9 @@
 ![Cu page](./3D-image-gallery-3.png?raw=true "Custom page")
 
 <div align="center">
-  <h1 align="center"!>Flight Shooting Game</h1>
+  <h1 align="center"!>3D photo gallery</h1>
   <p align="center">
-    SuplerJet.io Flight shooting game
+    react.js, camera control, image gallery
   </p>
   <br>
 </div>
